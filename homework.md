@@ -25,31 +25,31 @@
 ***
 ## Задание 1 ответ
 
-![1](FOTO\1.png)
+![1](https://github.com/Veritas97/Prac9OSiS/blob/main/FOTO/1.png)
 
-![2](FOTO\2.png)
+![2](https://github.com/Veritas97/Prac9OSiS/blob/main/FOTO/2.png)
 
-![3](FOTO\3.png)
+![3](https://github.com/Veritas97/Prac9OSiS/blob/main/FOTO/3.png)
 
-![4](FOTO\4.png)
+![4](https://github.com/Veritas97/Prac9OSiS/blob/main/FOTO/4.png)
 ***
 ## Задание 2 
 
 К сожалению не смог выполнить задание два 
 
-![5](FOTO\5.png)
+![5](https://github.com/Veritas97/Prac9OSiS/blob/main/FOTO/5.png)
 
-![6](FOTO\6.png)
+![6](https://github.com/Veritas97/Prac9OSiS/blob/main/FOTO/6.png)
 
 Просто не дают переварить в эту файловую систему
 ***
 ## Задание 3
 
-![7](FOTO\7.png)
+![7](https://github.com/Veritas97/Prac9OSiS/blob/main/FOTO/7.png)
 
 кто не хочет испытывать проблемы с нехваткой Inode в файловых системах ext2/ext3/ext4, мы можем посоветовать использование альтернативной файловой системы Btrfs (B-tree FS или Better Fs, Butter FS), которая основана на принципах структур B-деревьев и «копирования при записи» (copy-on-write).
 ***
 ## Задание 4
 
-![8](FOTO\8.png)
+![8](https://github.com/Veritas97/Prac9OSiS/blob/main/FOTO/8.png)
 ***
